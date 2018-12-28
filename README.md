@@ -5,4 +5,4 @@ iOS特性
 
 使用 Inceptionv3 model 进行图像识别
 
-![](https://github.com/yoferzhang/blogImage/blob/master/2018122801.png)
+![](https://github.com/yoferzhang/blogImage/blob/master/2018122801.gif)
